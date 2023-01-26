@@ -21,6 +21,6 @@
 
 ![image](https://user-images.githubusercontent.com/120341249/214759475-57a9fc0d-f71a-4641-8379-fd248abfed9d.png)
 
-- Finally, the results demonstrated that Charter Schools outperformed District Schools in all metrics as well.  This likely has a myriad of causes which are outside the scope of the provided datasets, but appears to be in line with the conclusions outlined above regarding budget, class size, quality of education, and other variables on student performance: 
+- Finally, the results demonstrated that Charter Schools outperformed District Schools in all metrics as well.  This likely has a myriad of causes which are outside the scope of the provided datasets, but appears to be in line with the conclusions outlined above regarding the impact of budget, class size, quality of education, and other variables on student performance: 
 
 ![image](https://user-images.githubusercontent.com/120341249/214759658-439662d8-f63e-428b-88df-e8aff25218f4.png)
