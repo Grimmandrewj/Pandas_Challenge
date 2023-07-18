@@ -1,7 +1,7 @@
 ## Goal
 - I was provided with two datasets containing data regarding schools and students.  This data included school information such as name, type, size, and budget, and student information including name, grade, and average test scores in Math and Reading.
 - I was tasked with analyzing the data sets and gathering vital information with which the relevant stakeholders could make strategic decisions regarding future school budgets and priorities.  
-- The results were first calculated on a district level, then sorted and summarized by school, demonstrating the highest- and lowest-performing schools by size and type (District vs. Charter)
+- The results were first calculated on a district level, then sorted and summarized by school, demonstrating the highest- and lowest-performing schools by size and type (District vs. Charter).
 
 ## Method
 - The total number of students, average test scores, and percent passing rates were calculated utilizing the provided datasets.  This information was summarized in a dataframe on a district level, listing the totals for the full list of fifteen schools. 
